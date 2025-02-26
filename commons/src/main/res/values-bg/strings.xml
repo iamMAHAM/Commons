@@ -658,6 +658,7 @@
     <string name="manage_shown_tabs">Управление на показаните раздели</string>
     <string name="default_tab_to_open">Раздел за отваряне при стартиране на приложението</string>
     <string name="contacts_tab">Контакти</string>
+    <string name="line_tab">Линия</string>
     <string name="favorites_tab">Любими</string>
     <string name="call_history_tab">Дневник на Обажданията</string>
     <string name="groups_tab">Групи</string>

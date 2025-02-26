@@ -655,6 +655,7 @@
     <string name="manage_shown_tabs">Kudeatu erakutsitako fitxak</string>
     <string name="default_tab_to_open">Aplikazioa hasterakoan irekiko den fitxa</string>
     <string name="contacts_tab">Kontaktuak</string>
+     <string name="line_tab">Line</string>
     <string name="favorites_tab">Gogokoak</string>
     <string name="call_history_tab">Deien historia</string>
     <string name="groups_tab">Taldeak</string>

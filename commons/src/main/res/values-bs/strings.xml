@@ -711,6 +711,7 @@
     <string name="manage_shown_tabs">Upravljaj prikazanim karticama</string>
     <string name="default_tab_to_open">Kartica koja se otvara nakon pokretanja programa</string>
     <string name="contacts_tab">Kontakti</string>
+    <string name="line_tab">Linija</string>
     <string name="favorites_tab">Favoriti</string>
     <string name="call_history_tab">Historija poziva</string>
     <string name="groups_tab">Grupe</string>

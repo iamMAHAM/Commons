@@ -703,6 +703,7 @@
     <string name="manage_shown_tabs">Кіраванне ўкладкамі, якія адлюстроўваюцца</string>
     <string name="default_tab_to_open">Укладка, якая адкрываецца пры запуску</string>
     <string name="contacts_tab">Кантакты</string>
+    <string name="line_tab">Лінія</string>
     <string name="favorites_tab">Абраныя</string>
     <string name="call_history_tab">Журнал выклікаў</string>
     <string name="groups_tab">Групы</string>

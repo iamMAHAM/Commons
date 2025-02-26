@@ -795,6 +795,7 @@
     <string name="manage_shown_tabs">إدارة التابات المعروضة</string>
     <string name="default_tab_to_open">اختر ما يُفتح عند بدء التطبيق</string>
     <string name="contacts_tab">جهات الاتصال</string>
+    <string name="line_tab">الخط</string>
     <string name="favorites_tab">المفضّلات</string>
     <string name="call_history_tab">سجل المكالمات</string>
     <string name="groups_tab">المجموعات</string>

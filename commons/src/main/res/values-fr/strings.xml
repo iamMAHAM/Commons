@@ -1100,6 +1100,7 @@
     <string name="purchase_simple_thank_you">Acheter Fossify Thank You</string>
     <string name="widgets">Widgets</string>
     <string name="contacts_tab">Contacts</string>
+    <string name="line_tab">Ligne</string>
     <string name="usb">USB</string>
     <string name="saturday_letter">S</string>
     <string name="version_placeholder">Version %s</string>

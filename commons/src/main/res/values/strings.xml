@@ -761,6 +761,7 @@
     <string name="manage_shown_tabs">Manage shown tabs</string>
     <string name="default_tab_to_open">Tab to open at app start</string>
     <string name="contacts_tab">Contacts</string>
+    <string name="line_tab">Line</string>
     <string name="favorites_tab">Favorites</string>
     <string name="call_history_tab">Call History</string>
     <string name="groups_tab">Groups</string>

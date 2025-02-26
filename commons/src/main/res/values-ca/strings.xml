@@ -695,6 +695,7 @@
     <string name="manage_shown_tabs">Gestiona les pestanyes mostrades</string>
     <string name="default_tab_to_open">Pestanya a obrir en iniciar l\'aplicació</string>
     <string name="contacts_tab">Contactes</string>
+    <string name="line_tab">Línia</string>
     <string name="favorites_tab">Preferits</string>
     <string name="call_history_tab">Historial de trucades</string>
     <string name="groups_tab">Grups</string>

@@ -646,6 +646,7 @@
     <string name="manage_shown_tabs">Administrer viste faner</string>
     <string name="default_tab_to_open">Tab for at åbne ved appstart</string>
     <string name="contacts_tab">Kontakter</string>
+    <string name="line_tab"> Linje</string>
     <string name="favorites_tab">Foretrukne</string>
     <string name="call_history_tab">Opkaldshistorik</string>
     <string name="groups_tab">Grupper</string>
